@@ -20,12 +20,7 @@
 
 ### Languages and Tools:
 
-<img alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg" />
-<img alt="Java" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" />
-<img alt="Unity" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/unity.svg" />
-<img alt="C#" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/csharp.svg" />
-<img alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />
-<img alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />
+<img alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg" /><img alt="Java" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" /><img alt="Unity" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/unity.svg" /><img alt="C#" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/csharp.svg" /><img alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" /><img alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />
 <img alt="Sass" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sass.svg" />
 <img alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
 <img alt="React" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" />
