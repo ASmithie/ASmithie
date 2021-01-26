@@ -44,4 +44,4 @@
 
 [<img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" />]
 
-[<img align="left" alt="GitHub" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />]
+<img alt="GitHub" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />
