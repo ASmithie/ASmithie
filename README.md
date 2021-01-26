@@ -31,8 +31,6 @@
 <img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" />
 <img alt="GitHub" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />
 
-<br/>
-
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.asmithie.vercel.app/api/spotify)](https://open.spotify.com/user/alezzz_?si=8BsiKPkJRYaOWC0pAY-YMg)
