@@ -13,35 +13,23 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/alec-smith-168346172/)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/alec_smiff/)
+[<img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/alec-smith-168346172/)
+[<img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/alec_smiff/)
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg" />]
-
-[<img align="left" alt="Java" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" />]
-
-[<img align="left" alt="Unity" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/unity.svg" />]
-
-[<img align="left" alt="C#" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/csharp.svg" />]
-
-[<img align="left" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />]
-
-[<img align="left" alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />]
-
-[<img align="left" alt="Sass" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sass.svg" />]
-
-[<img align="left" alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />]
-
-[<img align="left" alt="React" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" />]
-
-[<img align="left" alt="Node.js" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/node-dot-js.svg" />]
-
-[<img align="left" alt="MySQL" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" />]
-
-[<img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" />]
-
+<img alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg" />
+<img alt="Java" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" />
+<img alt="Unity" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/unity.svg" />
+<img alt="C#" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/csharp.svg" />
+<img alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />
+<img alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />
+<img alt="Sass" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sass.svg" />
+<img alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
+<img alt="React" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" />
+<img alt="Node.js" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/node-dot-js.svg" />
+<img alt="MySQL" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" />
+<img alt="Git" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" />
 <img alt="GitHub" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />
