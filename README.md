@@ -6,9 +6,7 @@
 -   I run the Heriot-Watt Game Dev Society
 -   I hope to become a better developer and maybe make something worth using one day
 
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.asmithie.vercel.app/api/spotify)](https://open.spotify.com/user/alezzz_?si=8BsiKPkJRYaOWC0pAY-YMg)
+<br/>
 
 ### Connect with me:
 
@@ -32,3 +30,9 @@
 <img align="left" alt="MySQL" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" />
 <img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" />
 <img alt="GitHub" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />
+
+<br/>
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.asmithie.vercel.app/api/spotify)](https://open.spotify.com/user/alezzz_?si=8BsiKPkJRYaOWC0pAY-YMg)
