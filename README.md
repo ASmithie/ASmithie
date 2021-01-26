@@ -8,7 +8,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem.asmithie.vercel.app/api/spotify-playing" alt="Spotify" width="350" />](https://open.spotify.com/user/alezzz_?si=8BsiKPkJRYaOWC0pAY-YMg)
+[<img src="https://novatorem-taupe-five.vercel.app/api/spotify-playing" alt="Spotify" width="350" />](https://open.spotify.com/user/alezzz_?si=8BsiKPkJRYaOWC0pAY-YMg)
 [![Spotify](https://asmithie.vercel.app/api/spotify)](https://open.spotify.com/user/alezzz_?si=8BsiKPkJRYaOWC0pAY-YMg)
 
 ### Connect with me:
