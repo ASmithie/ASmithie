@@ -8,8 +8,8 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://vercel.com/asmithie/novatorem/49h0s6lfc/api/spotify" alt="Spotify" width="350" />](https://open.spotify.com/user/alezzz_?si=8BsiKPkJRYaOWC0pAY-YMg)
-[![Spotify](https://vercel.com/asmithie/novatorem/49h0s6lfc/api/spotify)](https://open.spotify.com/user/alezzz_?si=8BsiKPkJRYaOWC0pAY-YMg)
+[<img src="https://novatorem.asmithie.vercel.app/api/spotify" alt="Spotify" width="350" />](https://open.spotify.com/user/alezzz_?si=8BsiKPkJRYaOWC0pAY-YMg)
+[![Spotify](https://novatorem.asmithie.vercel.app/api/spotify)](https://open.spotify.com/user/alezzz_?si=8BsiKPkJRYaOWC0pAY-YMg)
 
 ### Connect with me:
 
