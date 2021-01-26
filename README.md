@@ -3,7 +3,7 @@
 ## I'm a Student and Developer!!
 
 -   I make Games, Websites, Apps and anything my Uni wants!
--   I run the Heriot-Watt Game Dev Society and we are always looking for new members
+-   I run the Heriot-Watt Game Dev Society 
 -   I hope to become a better developer and maybe make something worth using one day
 
 ### Spotify Playing 🎧
@@ -12,8 +12,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/alec-smith-168346172/)
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/alec_smiff/)
 
 <br />
 
@@ -31,9 +31,3 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
-<br />
-<br />
-
-[instagram]: https://www.instagram.com/alec_smiff/
-[linkedin]: https://www.linkedin.com/in/alec-smith-168346172/
