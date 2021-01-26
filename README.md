@@ -8,11 +8,11 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem.asmithie.vercel.app/api/spotify" alt="Spotify" width="350" />](https://open.spotify.com/user/alezzz_?si=8BsiKPkJRYaOWC0pAY-YMg)
 [![Spotify](https://novatorem.asmithie.vercel.app/api/spotify)](https://open.spotify.com/user/alezzz_?si=8BsiKPkJRYaOWC0pAY-YMg)
 
 ### Connect with me:
 
+[<img align="left" alt="LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/alec-smith-168346172/)
 [<img align="left" alt="Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/alec_smiff/)
 
 <br/>
